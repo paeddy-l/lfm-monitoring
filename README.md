@@ -29,6 +29,7 @@ Um das Metadata Monitoring Skript zu verwenden, folge diesen Schritten:
 
 Das Metadata Monitoring Skript erfordert:
 
+- Einen Server oder Webspace
 - PHP 7 oder höher
 - Die cURL-Erweiterung für PHP
 - Einen SMTP-Server für die PHP-Mail-Funktion
